@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1587689439 source:i:\tubes\listparent.cpp
+	"listParent.h"
+	<iostream>
+
+1587604701 i:\tubes\listparent.h
+	<iostream>
+	<stdio.h>
+	<string>
+
+1587657403 source:i:\tubes\listrelasi.cpp
+	"listRelasi.h"
+	<iostream>
+
+1587655398 i:\tubes\listrelasi.h
+	<iostream>
+	<stdio.h>
+	<string>
+	"listChild.h"
+	"listParent.h"
+
+1587690855 source:i:\tubes\main.cpp
+	<iostream>
+	"listParent.h"
+	"listChild.h"
+	"listRelasi.h"
+
+1587655398 i:\tubes\listchild.h
+	<iostream>
+
+1587655398 source:i:\tubes\listchild.cpp
+	<iostream>
+	"listChild.h"
+
+1587655398 source:i:\kelompok 10\listchild.cpp
+	<iostream>
+	"listChild.h"
+
+1587655398 i:\kelompok 10\listchild.h
+	<iostream>
+
+1587689439 source:i:\kelompok 10\listparent.cpp
+	"listParent.h"
+	<iostream>
+
+1587604701 i:\kelompok 10\listparent.h
+	<iostream>
+	<stdio.h>
+	<string>
+
+1587657403 source:i:\kelompok 10\listrelasi.cpp
+	"listRelasi.h"
+	<iostream>
+
+1587655398 i:\kelompok 10\listrelasi.h
+	<iostream>
+	<stdio.h>
+	<string>
+	"listChild.h"
+	"listParent.h"
+
+1587655400 source:j:\kelompok 10\listchild.cpp
+	<iostream>
+	"listChild.h"
+
+1587655400 j:\kelompok 10\listchild.h
+	<iostream>
+
+1587689440 source:j:\kelompok 10\listparent.cpp
+	"listParent.h"
+	<iostream>
+
+1587604702 j:\kelompok 10\listparent.h
+	<iostream>
+	<stdio.h>
+	<string>
+
+1587657404 source:j:\kelompok 10\listrelasi.cpp
+	"listRelasi.h"
+	<iostream>
+
+1587655400 j:\kelompok 10\listrelasi.h
+	<iostream>
+	<stdio.h>
+	<string>
+	"listChild.h"
+	"listParent.h"
+
+1587691510 source:j:\kelompok 10\main.cpp
+	<iostream>
+	"listParent.h"
+	"listChild.h"
+	"listRelasi.h"
+
